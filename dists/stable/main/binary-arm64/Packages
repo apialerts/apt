@@ -1,0 +1,14 @@
+Package: apialerts
+Version: 1.2.2
+Architecture: arm64
+Maintainer: API Alerts <support@apialerts.com>
+Installed-Size: 5952
+Filename: pool/main/a/apialerts/apialerts_1.2.2_linux_arm64.deb
+Size: 2523900
+MD5sum: fcfe8f3248642a6e914b5be3a5b44380
+SHA1: f8ea3d555c4e2d12caca5e09185d87a6e747e366
+SHA256: b4df351e53f047e23b777440b89e3495bea36661a9ff5a362a2c1b87f27c9ec1
+Priority: optional
+Homepage: https://apialerts.com
+Description: API Alerts CLI — send events from your terminal
+

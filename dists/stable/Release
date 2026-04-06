@@ -1,0 +1,18 @@
+Origin: apialerts
+Label: apialerts
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: API Alerts apt repository
+Date: Mon, 06 Apr 2026 15:58:18 +0000
+MD5Sum:
+ 68c6c0317829aed861e9e4986378999c 506 main/binary-amd64/Packages
+ dd9fcd9410c16e146e51b08a0f59ad72 382 main/binary-amd64/Packages.gz
+ 16480aeabc71a77ce1932b73595219d2 476 main/binary-arm64/Packages
+ 7ddf045eceb360d0f3bae93401940dfe 362 main/binary-arm64/Packages.gz
+SHA256:
+ b096a989eea654c48af7b3bd56ff738d8fefd8fbae9de454784723de7662b6ac 506 main/binary-amd64/Packages
+ f094f3b33ba8d4c8fc0a66ce172fe408a0932e77b49931df7b6d294a21fac492 382 main/binary-amd64/Packages.gz
+ b23436a9b7858916cd8724397f0bbec8054d4adacca1511173c756a53fa57278 476 main/binary-arm64/Packages
+ 23828f160b072eb029545b70c4114909ab22cf5bf856145033cada62ada9c50b 362 main/binary-arm64/Packages.gz

@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apialerts
+Label: apialerts
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: API Alerts apt repository
+Date: Mon, 06 Apr 2026 15:58:18 +0000
+MD5Sum:
+ 68c6c0317829aed861e9e4986378999c 506 main/binary-amd64/Packages
+ dd9fcd9410c16e146e51b08a0f59ad72 382 main/binary-amd64/Packages.gz
+ 16480aeabc71a77ce1932b73595219d2 476 main/binary-arm64/Packages
+ 7ddf045eceb360d0f3bae93401940dfe 362 main/binary-arm64/Packages.gz
+SHA256:
+ b096a989eea654c48af7b3bd56ff738d8fefd8fbae9de454784723de7662b6ac 506 main/binary-amd64/Packages
+ f094f3b33ba8d4c8fc0a66ce172fe408a0932e77b49931df7b6d294a21fac492 382 main/binary-amd64/Packages.gz
+ b23436a9b7858916cd8724397f0bbec8054d4adacca1511173c756a53fa57278 476 main/binary-arm64/Packages
+ 23828f160b072eb029545b70c4114909ab22cf5bf856145033cada62ada9c50b 362 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEVMdzh0Ngapk+OUoPOoylQKhjuOUFAmnT2BoACgkQOoylQKhj
+uOUVfw//Xx0Ld5BU8KjxopgaAo4pgpekuTNZQrcacYle/jRDQb54BvETwmmhxMDW
+oFIS+cOTH6BOlVdzZ12ucgRI8tOlFU5a5G7gGYqs91lR3nVgNn1rc6LoXqkLGsb4
+ZyFiD1PyP1ACSJAtEcVXSoRC5VskFeZrCX59Wjv4r56l2Ux0TRHdT9+Y1hXNlPG1
+j4xoYnWcsuRdG42+eHDG7a0eGTv7DhU6h2TNW8dW0eh4/lF+Vk9sooG1b01acGhO
+CbB/6VBG2n0xAg6Uw6rT04OEoWtvnfs8zhe1TcjTkoMZ9JIURLI1yaZe4dxQNK5A
+/Frz8ODB7OSxJgiipdfrntwzpTVO30v1FbPygzXzfVJugj619oym0NaZfiqK7bhH
+9RRf0Nr7nHyWjmI5aKPxzdv4G3Qc8ouiETBPaDqKjlldGa4Zq5rh1mxXpHZx2CH7
+qf0aUEngU9i0s2NrqX+M6lNB8x6EFMyscCcmUUth20wUnPeUUmTjXRvCrCWiZUcr
+ELOah0UgSEmAOEerS+FryTGi9iZyq2+UEFAvHUkM966S0QvE7aUYctXpbNPzTXjG
+5CRqu7Eq5dsndRnYA93t+9LYFa2qaFhBL3Q5ywAT5w0Vqco0eRn5ex3mXbhp+qrc
+I7a6C7PRkZuVc5vukc34l1APQO9V4QIASRo9N3H6DVRi4nXezjw=
+=Xut0
+-----END PGP SIGNATURE-----
